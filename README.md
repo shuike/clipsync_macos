@@ -13,7 +13,9 @@
 
 使用ClipSync可将剪切板同步给局域网中其它安装了ClipSync的设备，这些设备可以是Mac电脑也可以是Android手机。
 
-<img src="screenshot/img1.png" alt="screenshot" style="zoom: 50%;" />
+<p align="center">
+	<img src="screenshot/img1.png" alt="screenshot" style="width: 50%;" />
+</p>
 
 ### ClipSync Android版获取
 
